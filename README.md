@@ -1,0 +1,1 @@
+# codaily_chrome_extension
